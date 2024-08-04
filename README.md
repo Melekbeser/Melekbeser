@@ -4,7 +4,7 @@
 
 - 😄Gelişimi,değişimi ve yazılım öğrenmeyi seviyorum.
 
--💬Bana Frontend Developer,React Developer,Software Developer hakkında sorular sorun.
+ -💬Bana Frontend Developer,React Developer,Software Developer hakkında sorular sorun.
 
 - 📫 Bana nasıl ulaşabilirsiniz besermelek15@gmail.com
 <!---
