@@ -4,7 +4,7 @@
 
 - 😄Gelişimi,değişimi ve yazılım öğrenmeyi seviyorum.
 
-  -💬 Bana React JS, React Native, JavaScript hakkında sorular sorun
+-💬 Bana React JS, React Native, JavaScript hakkında sorular sorun
 
 - 📫 Bana nasıl ulaşabilirsiniz besermelek15@gmail.com
 <!---
