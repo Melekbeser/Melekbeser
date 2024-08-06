@@ -1,10 +1,12 @@
 - 👋 Hi, I’m Melek Beşer.
   
-- 🌱Şu anda yazılım mühendisliği okuyorum ve kendimi geliştirmeye devam ediyorum. 
+- 🌱Şu anda öğrenmekte olduğum teknolojiler:Frontend Developer || React Developer || Software Developer
 
-- 😄Gelişimi,değişimi ve yazılım öğrenmeyi seviyorum.
+- 😄Kod yazmayı ve yeni teknolojiler öğrenmeyi severim.Yazılım geliştirme,web uygulamaları ve yapay zeka konularında büyük bi tutkum var.
 
--💬 Bana React JS, React Native, JavaScript hakkında sorular sorun
+- Uzay teknolojilerine ilgi duyuyorum.
+
+- Çevre dostu projeler ve sürdürülebilirlik üzerine çalışmayı planlıyorum.
 
 - 📫 Bana nasıl ulaşabilirsiniz besermelek15@gmail.com
 <!---
