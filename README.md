@@ -4,10 +4,10 @@
 
 - 😄Kod yazmayı ve yeni teknolojiler öğrenmeyi severim.Yazılım geliştirme,web uygulamaları ve yapay zeka konularında büyük bi tutkum var.
 
-  - Uzay teknolojilerine ilgi duyuyorum.
-
 - Çevre dostu projeler ve sürdürülebilirlik üzerine çalışmayı planlıyorum.
-
+- 
+  - Uzay teknolojilerine ilgi duyuyorum.
+  - 
 - 📫 Bana nasıl ulaşabilirsiniz besermelek15@gmail.com
 <!---
 Melekbeser/Melekbeser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
