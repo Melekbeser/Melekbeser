@@ -6,7 +6,6 @@
 
 - Çevre dostu projeler ve sürdürülebilirlik üzerine çalışmayı planlıyorum. 
 
-- Uzay teknolojilerine ilgi duyuyorum.
 
 - 📫 Bana nasıl ulaşabilirsiniz besermelek15@gmail.com
 <!---
