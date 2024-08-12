@@ -4,7 +4,11 @@
 
 - 😄Kod yazmayı ve yeni teknolojiler öğrenmeyi severim.Yazılım geliştirme,web uygulamaları ve yapay zeka konularında büyük bi tutkum var.
 
-- Çevre dostu projeler ve sürdürülebilirlik üzerine çalışmayı planlıyorum. 
+- Çevre dostu projeler ve sürdürülebilirlik üzerine çalışmayı planlıyorum.
+
+
+-Bilim kurgu romanları okumak
+
 
 
 - 📫 Bana nasıl ulaşabilirsiniz besermelek15@gmail.com
